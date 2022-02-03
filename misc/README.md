@@ -1,0 +1,1 @@
+- UAVDT_DET contains the detections in the format the UAVDT MATLAB evaluation script expects. It can be used to reproduce the results reported in the paper.
